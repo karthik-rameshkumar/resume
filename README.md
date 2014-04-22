@@ -1,4 +1,4 @@
-bloodline
+Resume
 =========
 
-Repository for the Bloodline Cross-platform Aplication
+Just Built a resume with Impress.JS, SASS and COMPASS
